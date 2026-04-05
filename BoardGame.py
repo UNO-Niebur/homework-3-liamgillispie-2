@@ -1,6 +1,8 @@
 # Homework 3 - Board Game System
-# Name:
-# Date:
+# Name:Liam Gillispie
+# Date:4/5/2026
+# Assignment: Homework 3
+# Purpose: Create and impliment a simple board game system.
 
 def loadGameData(filename):
     """Reads game data from a file and returns it as a list."""
