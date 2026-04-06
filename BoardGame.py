@@ -98,7 +98,7 @@ def main():
     board_size = DEFAULT_BOARD_SIZE
     dice_max = DEFAULT_DICE_MAX
 
-    b_in = input(f"Board size (default {board_size}): ").strip()
+    b_in = input(f"Board size (Default: {board_size}): ").strip()
     if b_in:
         try:
             board_size = int(b_in)
@@ -107,7 +107,7 @@ def main():
         except Exception:
             board_size = DEFAULT_BOARD_SIZE
 
-    d_in = input(f"Dice max (default {dice_max}): ").strip()
+    d_in = input(f"Die max size (Default/max die size: {dice_max}): ").strip()
     if d_in:
         try:
             dice_max = int(d_in)
