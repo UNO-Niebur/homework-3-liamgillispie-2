@@ -1,7 +1,15 @@
-Turn: Player1
-3: Player1
-7: Player2
-12: Treasure
-18: Trap
-22: Player3
-27: Heal
+1:Welcome back to the beginning...
+4:jump:20
+13:offset:-6
+25:offset:-13
+43:jump:51
+64:jump:100
+81:offset:-61
+105:offset:-25
+118:jump:150
+136:offset:-21
+157:jump:180
+176:offset:-16
+199:offset:-198
+200:You have reached the end!
+#0 is the end, and other values are the "hills" and "stairs"
