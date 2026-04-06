@@ -1,0 +1,12 @@
+Homework 3 Board Game:
+Dungeons and Dragons Style dice roll, turn based on a board, can go forward or backwards. The board layout is like shoots and ladders with the movement on a fixed track with possibility to move up and down to spots. 
+Dice Roll: 1-20
+Back or forward
+Total Spots: 200
+“Hill” and “Stair” positions
+Down or up to a certain position
+Player turns go in order (1,2,3,4,etc)
+Start at 1 and End at 200
+Each person takes turns
+
+Functions: DiceRoll, LoadEvents, MovePlayer
